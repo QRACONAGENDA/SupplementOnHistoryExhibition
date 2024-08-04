@@ -7,3 +7,5 @@
 1. Post-Quantum Cryptography by Daniel J. Bernstein, Johannes Buchmann, Erik Dahmen.
 
 2. An Introduction to Mathematical Cryptography by Jeffrey Hoffstein , Jill Pipher , Joseph H. Silverman.
+
+3. Cryptology ePrint Archive https://eprint.iacr.org/
