@@ -22,4 +22,3 @@ MIT OpenCourse
 Oxford University Press, 2022
 
 **Quantum Chemistry, Seventh Edition** Ira N. Levine Pearson, 2014  
-[http://staff.ustc.edu.cn/~hzhli/teaching/jiegouhuaxue/Quantum_Chemistry_7th.pdf](http://staff.ustc.edu.cn/~hzhli/teaching/jiegouhuaxue/Quantum_Chemistry_7th.pdf)
